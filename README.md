@@ -3,6 +3,8 @@ This project focuses on analyzing a restaurant dataset using Microsoft Excel.  T
 ## 🖼 Dashboard Preview
 
 ![Dashboard](Dashboard.png)
+⚠️ Note: Excel, PowerPoint, and Word files cannot be previewed directly on GitHub.  
+Please download the files to view the complete dashboard and documentation.
 ## 🛠 Tools Used
 - Microsoft Excel
 - Pivot Tables
@@ -23,6 +25,8 @@ This project focuses on analyzing a restaurant dataset using Microsoft Excel.  T
 ✔ Dashboard Design  
 ✔ Business Analysis  
 ✔ Insight Extraction
+
+
 ## 📂 Project Files Included
 
 - 📊 **Excel Dashboard** – Zomato Dashboard.xlsx  
