@@ -23,3 +23,9 @@ This project focuses on analyzing a restaurant dataset using Microsoft Excel.  T
 ✔ Dashboard Design  
 ✔ Business Analysis  
 ✔ Insight Extraction
+## 📂 Project Files Included
+
+- 📊 **Excel Dashboard** – Zomato Dashboard.xlsx  
+- 📈 **Project Presentation** – Project Presentation.pptx  
+- 📝 **Detailed Project Report** – Project Report.docx  
+- 🖼 **Dashboard Preview Image** – Dashboard.png
