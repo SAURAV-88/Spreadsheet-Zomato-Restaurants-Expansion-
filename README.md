@@ -29,7 +29,6 @@ Please download the files to view the complete dashboard and documentation.
 
 ## 📂 Project Files Included
 
-- 📊 **Excel Dashboard** – Zomato Dashboard.xlsx  
 - 📈 **Project Presentation** – Project Presentation.pptx  
 - 📝 **Detailed Project Report** – Project Report.docx  
 - 🖼 **Dashboard Preview Image** – Dashboard.png
