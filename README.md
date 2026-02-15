@@ -3,3 +3,23 @@ This project focuses on analyzing a restaurant dataset using Microsoft Excel.  T
 ## 🖼 Dashboard Preview
 
 ![Dashboard](Dashboard.png)
+## 🛠 Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Data Cleaning
+- KPI Analysis
+- 2D Charts
+
+## 📊 Key Insights
+- Country-wise restaurant distribution
+- Top 10 cuisines analysis
+- Average rating comparison
+- Online delivery vs table booking analysis
+- Expansion opportunity identification
+
+## 🚀 Skills Demonstrated
+✔ Data Cleaning  
+✔ Data Visualization  
+✔ Dashboard Design  
+✔ Business Analysis  
+✔ Insight Extraction
